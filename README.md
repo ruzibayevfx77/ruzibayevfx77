@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img src="BANNER_LINK" />
+</p>
 
-<!--
-**ruzibayevfx77/ruzibayevfx77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Xumoyun Ruzibayev</h1>
+<h3 align="center">Frontend Developer | UI/UX Designer | Student</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- React.js
+- Next.js
+- UI/UX Design
+- AI Development
+
+💻 My Projects:
+- EduNova Library System
+- Student Management System
+- BMW Mobile Application
+
+📫 Contact:
+- Email: your-email@gmail.com
+
+### 🛠 Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,git,github,vscode,figma" />
+</p>
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
