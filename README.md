@@ -22,9 +22,9 @@
 - Email: ruzibayev.fx77@gmail.com
 
 Telegram:
-- Profile: https:/t.me/ake80
-- Profile: https:/t.me/akenx
-- Profile: https:/t.me/akeu4
+- Profile: https://t.me/ake80
+- Profile: https://t.me/akenx
+- Profile: https://t.me/akeu4
 
 ### 🛠 Languages and Tools
 
